@@ -1,0 +1,41 @@
+/*NAVIGATION BAR*/
+.w3-bar{
+    width:10px;
+}
+
+h1{ 
+    font-weight:bolder;
+    color:rgb(243, 252, 253);
+    font-style: oblique;
+    padding:15px;
+    font-weight: bolder;   
+}
+
+body{
+    background-image: url("https://wallpapercave.com/wp/TIyb06E.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*ANCHOR TAGS*/
+a{
+    text-decoration: none;
+    color:darkmagenta;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+/*SOCIAL MEDIA*/
+#mobile{
+    font-weight:bolder;
+    padding-left:10px;
+}
+
+#gmail{
+    font-weight:bolder;
+    padding-left:10px;
+}
+
+#insta{
+    font-weight:bolder;
+    padding-left:10px;
+}

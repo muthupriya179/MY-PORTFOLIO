@@ -1,0 +1,59 @@
+a{ 
+    text-decoration: none;
+    width:100px;
+    color:white;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-style: italic;
+    text-align:center;
+    padding-left:750px;
+} 
+
+#home{
+    padding-left: 60%;
+    border-radius: 20px;
+    border:solid black;
+}
+
+h2{
+    color:rgb(238, 17, 179 );
+    padding-top:260px;
+    font-size:40px;
+    padding-left:15px;
+}
+/* INTRO PAGE */
+body{
+    background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn1GmzHh1XG11ni_G4y5jZdYyzQfxVi1uWKA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:720px;
+}
+/*FEW LINES ABOUT ME*/
+#self{
+    font-size:30px;
+    padding-left:15px;
+}
+
+#img{
+    height:40px;   
+}
+
+.w3{
+    padding-left: 60%;
+}
+
+.topnav-right {
+    float: right;
+}
+
+h1{
+    font-weight:bolder;
+    font-size: 60px;
+    color:white;
+    font-style: oblique;
+    padding:15px;
+}
+
+.w3-bar{
+    justify-content: space-around;
+}

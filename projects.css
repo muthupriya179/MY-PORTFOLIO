@@ -1,0 +1,71 @@
+a{
+    text-decoration: none;
+    color:darkmagenta;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+h1{
+    font-weight:bolder;
+    color:rgb(14, 209, 243);
+    font-style: oblique;
+    padding:15px;
+    font-weight: bolder;   
+}
+
+body{
+    background-image: url("https://i.pinimg.com/originals/8c/73/27/8c73277da6a55ee6c00c77c18ae48730.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+img{
+    float:right;
+    margin-right:250px;
+} 
+/*PROJECTS*/
+#project1{
+    background-color:rgb(195, 218, 96);
+    width:53%;
+    padding-left:240px;
+    margin-left:15px;
+    color:darkmagenta;
+    font-weight:bolder;
+}
+
+#project2{
+    background-color:rgb(195, 218, 96);
+    width:53%;
+    padding-left:240px;
+    margin-left:15px;
+    color:darkmagenta;
+    font-weight:bolder;
+}
+
+#project3{
+    background-color:rgb(195, 218, 96);
+    width:53%;
+    padding-left:240px;
+    margin-left:15px;
+    color:darkmagenta;
+    font-weight:bolder;
+}
+
+#project4{
+    background-color:rgb(195, 218, 96);
+    width:53%;
+    padding-left:240px;
+    margin-left:15px;
+    color:darkmagenta;
+    font-weight:bolder;
+}
+
+#project5{
+    background-color:rgb(195, 218, 96);
+    width:53%;
+    padding-left:240px;
+    margin-left:15px;
+    color:darkmagenta;
+    font-weight:bolder;
+}

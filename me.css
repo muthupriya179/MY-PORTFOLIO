@@ -1,0 +1,37 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQracAqqutHHA07hHI8fxFPmC1xxe-XORWZtw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*FEW LINES ABOUT ME*/
+#myself{ 
+    font-size:20px;
+    padding-bottom:200px;
+    color:black;
+    font-weight:bolder;
+} 
+
+a{
+    text-decoration: none;
+    color:darkmagenta;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
+
+img{
+	  float:left;
+}
+
+.topnav-right {
+    float: right;
+}
+
+h1{
+    font-weight:bolder;
+    font-size: 60px;
+    color:rgb(243, 152, 14);
+    font-style: oblique;
+    padding:15px;
+    font-weight: bolder;  
+}
